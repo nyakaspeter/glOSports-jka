@@ -1,0 +1,6 @@
+[Entry]
+CATEGORY=Games
+NAME=Star Wars Jedi Knight: Jedi Academy
+DESCRIPTION=Running natively via OpenJK
+COMMAND=/home/player/ports/jka/start.sh
+ICON=/home/player/ports/jka/icon.png
